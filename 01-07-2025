@@ -1,0 +1,57 @@
+    <header style="background-color: #FAFAFA; width: 100%; position: fixed; top: 0px; left: 0px; padding: 10px; border-bottom: #cecece 2px solid;">
+        <p style="font-weight: bold; text-align: center;">NIKLAS SCIENCE</p>
+    </header>
+    <div style="margin-top: 100px;">
+    <img src="/images/energetic_salts_of_cubane.png" style="width: 50%; height: 400px; object-fit: cover; margin-left: 25%;">
+    <div style="width: 50%; margin-left: 25%;">
+    <h1>Energetic Salts of Cubane</h1>
+    <div style="font-family: Arial, sans-serif; font-size: 16px; line-height: 1.5; color: #222;">
+
+        <p><strong>Greetings,</strong></p>
+
+        <p>As you may know, I‘m currently doing quite a bit of work on <strong>cubanes</strong>, and while my primary focus is on pharmaceuticals I couldn’t help but at least do some tests regarding <strong>energetic derivatives</strong>; in the future I‘m planning to make di- and tetranitrocubane too but that’s a different story for now.</p>
+
+        <p>Even seemingly simple, non-energetic derivatives of cubane sometimes actually exhibit energetic properties, with detonation of <strong>dimethyl cubane-1,4-dicarboxylate</strong> having been reported on kugelrohr distillation (<a href="https://apps.dtic.mil/sti/tr/pdf/ADA210368.pdf" target="_blank" rel="noopener noreferrer">source</a>), and the 1,4-dicarboxylic acid kind of deflagrating on rapid indirect heat, with a more impressive result potentially achievable by confining the solid though I haven’t tried that.</p>
+
+        <p>The fact that the diacid already exhibits some signs of energetic properties raises the question whether this could potentially be improved by preparing the corresponding <strong>carboxylate heavy metal salts</strong>. Further optimization by adding oxygen-containing ligands may be imaginable, though I don’t have any concrete plans in that regard yet.</p>
+
+        <p><strong>It is worth noting that the following two compounds, to my knowledge, have not been reported in literature before.</strong> For the silver salt, there is concern about rearrangement to the corresponding cuneane (<a href="https://pubs.acs.org/doi/10.1021/jacs.3c03207" target="_blank" rel="noopener noreferrer">source</a>), but without heating and as a solid salt this process can be expected to be reasonably slow if not completely nonexistent.</p>
+
+        <h3 style="margin-top: 1.5em;">Preparation Of Cubane-1,4-Dicarboxylic Acid Copper(II) Salt:</h3>
+
+        <p>In a 20 ml glass vial, 96.1 mg of cubane-1,4-dicarboxylic acid (0.5 mmol) were dissolved in exactly 1 ml of 1 molar sodium hydroxide solution, measured with an Eppendorf pipette. The yellowish solution was further diluted with 0.5 ml of water. A random excess of a reasonably concentrated copper(II)-chloride dihydrate solution was added, instantly resulting in a <strong>teal precipitate</strong>, which was collected by gravity filtration and thoroughly washed with distilled water. After drying over silica gel under vacuum, 136.1 mg of a teal amorphous solid were collected, corresponding to a 107.2% yield assuming the anhydrous salt, though as it is likely present as a hydrate of unknown composition, it‘s hard to state a proper yield.</p>
+
+        <p>This material is <strong>insensitive to shock and friction</strong> and on rapid indirect heating only combusts with a bluish-red flame, surprisingly leaving little residue. When confined in aluminum foil (~40 mg tested), a surprisingly strong detonation with a very sooty flame could be perceived, ripping multiple holes into the aluminum foil below, though not resulting in much shrapnel.</p>
+    
+    </div>
+
+    <div style="display: flex; gap: 20px; width: 100%;">
+    <figure style="flex: 1; margin: 0;">
+        <img src="/images/energetic_salts_of_cubane_figure_1.png" style="width: 100%; object-fit: cover; display: block;">
+        <figcaption style="text-align: center; font-size: 14px; margin-top: 8px;"><b>Figure 1: </b>Suspension of the product.</figcaption>
+    </figure>
+    
+    <figure style="flex: 1; margin: 0;">
+        <img src="/images/energetic_salts_of_cubane_figure_2.png" style="width: 100%; object-fit: cover; display: block;">
+        <figcaption style="text-align: center; font-size: 14px; margin-top: 8px;"><b>Figure 2: </b>The dried product.</figcaption>
+    </figure>
+    </div>
+
+    <div style="font-family: Arial, sans-serif; font-size: 16px; line-height: 1.5; color: #222;">
+
+    <h3 style="margin-top: 1.5em;">Preparation Of Cubane-1,4-Dicarboxylic Acid Silver(I) Salt:</h3>
+
+    <p><strong>Because of the general tendency of silver salts to be fairly light sensitive, all of the following work was conducted under a source of red light and silver-containing glassware wrapped in aluminum foil when possible.</strong></p>
+
+    <p>In a 20 ml glass vial, 96.1 mg of cubane-1,4-dicarboxylic acid (0.5 mmol) were dissolved in exactly 1 ml of 1 molar sodium hydroxide solution, measured with the help of an Eppendorf pipette, and the yellowish solution further diluted with 0.5 ml of water. A solution of around 250 mg silver nitrate (1.47 mmol) in a minimal amount of water was added, and the resulting <strong>grayish precipitate</strong> collected by vacuum filtration and thoroughly washed with distilled water. After drying over silica gel under vacuum, 176.7 mg of a light grey solid were collected, corresponding to a percent yield of <strong>87.1%</strong>.</p>
+
+    <p>This material can actually be <strong>detonated by strong shock from a hammer</strong>, though I still didn’t notice any friction sensitivity. On indirect heating, the material <strong>deflagrates with a pop</strong>—may even call it at least a partial weak detonation—leaving behind a black residue likely consisting of carbon. On confining in aluminum foil, again ~40 mg were tested, the material <strong>detonates with a sharp bang</strong>, releasing a large amount of soot and ripping a large hole around 5 cm in diameter into the aluminum foil below, fragmenting most of the foil into some very fine shrapnel.</p>
+
+    </div>
+
+    <div style="display: flex; gap: 20px; width: 100%;">
+    <figure style="flex: 1; margin: 0;">
+        <img src="/images/energetic_salts_of_cubane_figure_3.png" style="width: 100%; object-fit: cover; display: block;">
+        <figcaption style="text-align: center; font-size: 14px; margin-top: 8px;"><b>Figure 3: </b>Suspension of the product.</figcaption>
+    </figure>
+    </div>
