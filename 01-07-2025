@@ -1,10 +1,7 @@
-    <header style="background-color: #FAFAFA; width: 100%; position: fixed; top: 0px; left: 0px; padding: 10px; border-bottom: #cecece 2px solid;">
-        <p style="font-weight: bold; text-align: center;">NIKLAS SCIENCE</p>
-    </header>
     <div style="margin-top: 100px;">
-    <img src="/images/energetic_salts_of_cubane.png" style="width: 50%; height: 400px; object-fit: cover; margin-left: 25%;">
+    <img src="/images/energetic_salts_of_cubane.png" style="width: 50%; height: 400px; object-fit: cover; margin-left: 25%;" id="frontImage">
     <div style="width: 50%; margin-left: 25%;">
-    <h1>Energetic Salts of Cubane</h1>
+    <h1 id="title">Energetic Salts of Cubane</h1>
     <div style="font-family: Arial, sans-serif; font-size: 16px; line-height: 1.5; color: #222;">
 
         <p><strong>Greetings,</strong></p>
